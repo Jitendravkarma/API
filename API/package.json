@@ -1,0 +1,17 @@
+{
+  "name": "product-data",
+  "version": "1.0.0",
+  "description": "get product data like image, price, ranking and other",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev":"nodemon index.js"
+  },
+  "author": "Design Collection",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
